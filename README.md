@@ -30,7 +30,8 @@ What things you need to install the software:
 
 ## Built With
 
-- [React](https://reactjs.org/) - A JavaScript library for building user interfaces, known for its efficiency and flexibility in creating interactive UIs.
-- [Vite](https://vitejs.dev/) - An innovative frontend build tool that significantly improves the development experience, offering fast server start, rapid hot module replacement (HMR), and overall optimized build performance.
-- [Tailwind CSS](https://tailwindcss.com/) - A utility-first CSS framework that allows for rapid UI development with low-level utility classes and an emphasis on design customization.
+- <a href="https://reactjs.org/" target="_blank">React</a> - A JavaScript library for building user interfaces, known for its efficiency and flexibility in creating interactive UIs.
+- <a href="https://vitejs.dev/" target="_blank">Vite</a> - An innovative frontend build tool that significantly improves the development experience, offering fast server start, rapid hot module replacement (HMR), and overall optimized build performance.
+- <a href="https://tailwindcss.com/" target="_blank">Tailwind CSS</a> - A utility-first CSS framework that allows for rapid UI development with low-level utility classes and an emphasis on design customization.
+
 
