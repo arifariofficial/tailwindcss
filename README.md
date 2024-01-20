@@ -9,7 +9,7 @@ This is a responsive web application built with the modern JavaScript stack, lev
 - **Modern UI**: Styled with Tailwind CSS for a clean and modern interface.
 - **React-Based**: Utilizes the powerful React library for dynamic and interactive UI components.
 
-<a href="https://rad-sundae-a3bd84.netlify.app/" target="_blank">Demo Version</a> "Experience our application firsthand and see what it can do!
+<a href="https://rad-sundae-a3bd84.netlify.app/" target="_blank">Demo Version</a> "Experience the application firsthand and see what it can do!
 
 ## Getting Started
 
