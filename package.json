@@ -29,6 +29,5 @@
     "prettier-plugin-tailwindcss": "^0.5.11",
     "tailwindcss": "^3.4.1",
     "vite": "^5.0.8"
-  },
-  "homepage": "https://arifariofficial.github.io/tailwindcss"
+  }
 }
