@@ -12,7 +12,7 @@ This is a responsive web application built with the modern JavaScript stack, lev
 ## Demo
 
 <h1>
-  Check the app here <a href="https://rad-sundae-a3bd84.netlify.app/" target="_blank">Demo</a>
+  Check the app here <a href="https://arifariofficial.netlify.app/" target="_blank">Demo</a>
 </h1>
 
 ## Getting Started
